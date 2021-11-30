@@ -1,0 +1,21 @@
+{
+   "driver_null" : {
+      "enable" : true,
+      "id" : "Null Driver",
+	  "renderWidth" : 1920,
+      "renderHeight" : 1080,
+      "secondsFromVsyncToPhotons" : 0.10000000149011612,
+	  "displayFrequency" : 60.0,
+      "serialNumber" : "Null 4711",
+      "windowHeight" : 1080,
+      "windowWidth" : 1920,
+      "windowX" : 0,
+      "windowY" : 0
+   },
+   "steamvr" : {
+      "activateMultipleDrivers" : true,
+      "enableHomeApp" : false,
+      "forcedDriver" : "null",
+      "mirrorViewGeometry" : "0 0 960 540"
+   }
+}
